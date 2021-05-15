@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_url": "mysql://root:@localhost/codingworld",
+    "prod_url": "mysql://root:@localhost/codingworld",
+    "fb_url": "https://facebook.com/codingworld",
+    "tw_url": "https://twitter.com/codingworld",
+    "gh_url": "https://github.com/codingworld",
+    "gmail_user": "codingworld1019@gmail.com",
+    "gmail_password": "coding@123",
+    "about_text": "Hi I am Sudhesh Rajak a Bcs.It grad student",
+    "no_of_posts": 2,
+    "blog_name": "Coding World",
+    "login_image": "login.svg",
+    "admin_user": "sudhesh",
+    "admin_password": "coding@123",
+    "upload_location": "C:\\Users\\Sudesh\\PycharmProjects\\flask-web\\static"
+
+  }
+
+
+
+}
